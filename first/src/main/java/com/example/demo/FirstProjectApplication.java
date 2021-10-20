@@ -27,9 +27,9 @@ public class FirstProjectApplication {
    
  
 //  
-//    Person p2= Context.getBean(Person.class);
-//     p2.show();
-//     
+    Person p2= Context.getBean(Person.class);
+     p2.show();
+     
 //     
 //     Person p3= Context.getBean(Person.class);
 //     p3.show();

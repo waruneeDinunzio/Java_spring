@@ -1188,3 +1188,11 @@
 2021-10-15 14:36:41,037 [Worker-101: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-15 14:36:41,037 [Worker-101: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-10-15 14:36:41,037 [Worker-101: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/treehouseruser/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/first/src/test/resources
+2021-10-19 16:39:17,151 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-19 20:46:46,705 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 20:46:46,705 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-19 20:46:46,708 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-10-19 20:46:46,725 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-19 20:46:46,727 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-19 20:46:46,727 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-10-19 20:46:46,727 [Worker-11: Launching first - FirstProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/treehouseruser/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/first/src/test/resources
